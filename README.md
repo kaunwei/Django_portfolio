@@ -11,7 +11,7 @@ cd portfolio-website
 Update the database configuration in settings.py & views.py with your database credentials.<br />
 ![image](https://github.com/kaunwei/Django_portfolio/assets/113230557/22ca664c-5f64-473b-a14b-4271d3d5b098)<br />
 ![image](https://github.com/kaunwei/Django_portfolio/assets/113230557/14294569-3d2e-4dd3-9ec9-ca802f5ecee7)<br />
-Put the url of your social media account in index.html file <br />
+##Put the url of your social media account in index.html file <br />
 ![image](https://github.com/kaunwei/Django_portfolio/assets/113230557/28713c4f-1c75-42d4-af75-3f423bc9d814)
 
 ## Running the Application
